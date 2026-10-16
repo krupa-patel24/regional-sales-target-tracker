@@ -283,17 +283,6 @@ Design choices: one primary colour (`#1F4E79`), sorted descending bars, data lab
 3. Set **Show items = Top 10**, **By value = `[Total Sales]`**, click **Apply filter**.
 4. Sort the chart by `Total Sales` descending.
 
-### Screenshots
-
-Add your screenshots to an `images/` folder and reference them here:
-
-```markdown
-![Regional Sales & Target Tracker dashboard](images/dashboard.png)
-![Data model](images/model_view.png)
-![RLS test](images/rls_view_as.png)
-![Merge queries in Power Query](images/power_query_merge.png)
-```
-
 ---
 
 ## 9. Key results
