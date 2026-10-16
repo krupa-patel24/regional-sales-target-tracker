@@ -315,17 +315,7 @@ Design choices: one primary colour (`#1F4E79`), sorted descending bars, data lab
 
 ---
 
-## 12. Possible improvements
-
-- Add Marketing and Inventory pages (spend, clicks, CPC, inventory units by month).
-- Add a Sales vs Target line-and-column chart by `Month Year`.
-- Support several regions per user in the RLS filter, and extend RLS to target/spend tables.
-- Merge on IDs instead of names where possible.
-- Turn off *Auto date/time* in options and hide the raw date columns in fact tables.
-
----
-
-## 13. Repository structure
+## 12. Repository structure
 
 ```
 regional-sales-target-tracker/
@@ -345,7 +335,7 @@ regional-sales-target-tracker/
 
 ## Author
 
-**<Your Name>**: Data Analyst | Power BI, SQL
+**<Krupa Patel>**: Data Analyst | Power BI, SQL
 
 - LinkedIn: <https://www.linkedin.com/in/krupa-patel02/>
 - GitHub: <https://github.com/krupa-patel24/>
