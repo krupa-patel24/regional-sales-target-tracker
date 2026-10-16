@@ -2,7 +2,6 @@
 
 **Regional Sales & Target Tracker** is an end-to-end Power BI project that tracks sales against targets by region, category, product and city. Messy raw tables are cleaned and merged in Power Query, shaped into a star-schema data model, protected with region-based row-level security (RLS), and presented as an interactive one-page dashboard.
 
-> **Data credit:** add the source of the dataset here (for example, the course or provider the raw workbook came from) and check its licence before sharing the raw files.
 
 ---
 
